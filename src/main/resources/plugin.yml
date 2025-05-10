@@ -3,3 +3,9 @@ version: 1.0.0 # the plugin's version
 author: xAspired (GianMattia)
 main: me.xaspired.armorstandprotector.Main
 api-version: 1.18
+
+commands:
+  killall:
+    description: Rimuove tutte le entità tranne ArmorStand
+  ekillall:
+    description: Rimuove tutte le entità tranne ArmorStand
